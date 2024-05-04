@@ -2,7 +2,7 @@ Hi! This File belongs to karthick.
 it contains Day 5 task file. 
 including 
     1.index.html
-    2. script.js- file for solution 
+    2. Resume.js- file for solution 
     3. 1 output as image format
 
 questions:
